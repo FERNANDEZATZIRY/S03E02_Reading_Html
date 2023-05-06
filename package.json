@@ -1,0 +1,25 @@
+{
+  "name": "first-server",
+  "version": "1.0.0",
+  "description": "Primer servidor con node",
+  "main": "index.js",
+  "type": "module",
+  "engines": {
+    "node": "19.x",
+    "npm": "9.x"
+  },
+  "scripts": {
+    "start": "node ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "#"
+  },
+  "keywords": [
+    "node",
+    "server",
+    "ITGAM"
+  ],
+  "author": "Fernandez Andrea",
+  "license": "MIT"
+}
